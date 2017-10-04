@@ -56,10 +56,11 @@
         />
 
     <ImageButton
-        android:layout_width="350dp"
-        android:layout_height="350sp"
-        android:src="@drawable/Iron"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:background="@android:color/transparent"
+        android:src="@android:drawable/btn_star"
+        android:contentDescription="BotonEstrella"
         />
 
 </LinearLayout>
